@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WebAPI\\WebAPIDay1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9930A5A-6631-4F43-8B8A-81B12579B7B6}|WebAPIDay1\\WebAPIDay1.csproj|d:\\webapi\\webapiday1\\webapiday1\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9930A5A-6631-4F43-8B8A-81B12579B7B6}|WebAPIDay1\\WebAPIDay1.csproj|solutionrelative:webapiday1\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9930A5A-6631-4F43-8B8A-81B12579B7B6}|WebAPIDay1\\WebAPIDay1.csproj|d:\\webapi\\webapiday1\\webapiday1\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9930A5A-6631-4F43-8B8A-81B12579B7B6}|WebAPIDay1\\WebAPIDay1.csproj|solutionrelative:webapiday1\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9930A5A-6631-4F43-8B8A-81B12579B7B6}|WebAPIDay1\\WebAPIDay1.csproj|d:\\webapi\\webapiday1\\webapiday1\\webapiday1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C9930A5A-6631-4F43-8B8A-81B12579B7B6}|WebAPIDay1\\WebAPIDay1.csproj|solutionrelative:webapiday1\\webapiday1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9930A5A-6631-4F43-8B8A-81B12579B7B6}|WebAPIDay1\\WebAPIDay1.csproj|d:\\webapi\\webapiday1\\webapiday1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9930A5A-6631-4F43-8B8A-81B12579B7B6}|WebAPIDay1\\WebAPIDay1.csproj|solutionrelative:webapiday1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9930A5A-6631-4F43-8B8A-81B12579B7B6}|WebAPIDay1\\WebAPIDay1.csproj|d:\\webapi\\webapiday1\\webapiday1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9930A5A-6631-4F43-8B8A-81B12579B7B6}|WebAPIDay1\\WebAPIDay1.csproj|solutionrelative:webapiday1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9930A5A-6631-4F43-8B8A-81B12579B7B6}|WebAPIDay1\\WebAPIDay1.csproj|d:\\webapi\\webapiday1\\webapiday1\\controllers\\wapi1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9930A5A-6631-4F43-8B8A-81B12579B7B6}|WebAPIDay1\\WebAPIDay1.csproj|solutionrelative:webapiday1\\controllers\\wapi1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9930A5A-6631-4F43-8B8A-81B12579B7B6}|WebAPIDay1\\WebAPIDay1.csproj|d:\\webapi\\webapiday1\\webapiday1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9930A5A-6631-4F43-8B8A-81B12579B7B6}|WebAPIDay1\\WebAPIDay1.csproj|solutionrelative:webapiday1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebAPIDay1",
+              "DocumentMoniker": "D:\\WebAPI\\WebAPIDay1\\WebAPIDay1\\WebAPIDay1.csproj",
+              "RelativeDocumentMoniker": "WebAPIDay1\\WebAPIDay1.csproj",
+              "ToolTip": "D:\\WebAPI\\WebAPIDay1\\WebAPIDay1\\WebAPIDay1.csproj",
+              "RelativeToolTip": "WebAPIDay1\\WebAPIDay1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-11T17:26:38.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\WebAPI\\WebAPIDay1\\WebAPIDay1\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "WebAPIDay1\\Models\\Course.cs",
+              "ToolTip": "D:\\WebAPI\\WebAPIDay1\\WebAPIDay1\\Models\\Course.cs",
+              "RelativeToolTip": "WebAPIDay1\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T16:52:08.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\WebAPI\\WebAPIDay1\\WebAPIDay1\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "WebAPIDay1\\Controllers\\CourseController.cs",
+              "ToolTip": "D:\\WebAPI\\WebAPIDay1\\WebAPIDay1\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "WebAPIDay1\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:14:18.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WebAPI\\WebAPIDay1\\WebAPIDay1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPIDay1\\appsettings.json",
+              "ToolTip": "D:\\WebAPI\\WebAPIDay1\\WebAPIDay1\\appsettings.json",
+              "RelativeToolTip": "WebAPIDay1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-11T14:05:39.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\WebAPI\\WebAPIDay1\\WebAPIDay1\\Models\\Context.cs",
+              "RelativeDocumentMoniker": "WebAPIDay1\\Models\\Context.cs",
+              "ToolTip": "D:\\WebAPI\\WebAPIDay1\\WebAPIDay1\\Models\\Context.cs",
+              "RelativeToolTip": "WebAPIDay1\\Models\\Context.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABcAAACeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:56:23.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WebAPI\\WebAPIDay1\\WebAPIDay1\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPIDay1\\Program.cs",
+              "ToolTip": "D:\\WebAPI\\WebAPIDay1\\WebAPIDay1\\Program.cs",
+              "RelativeToolTip": "WebAPIDay1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:45:38.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WAPI1Controller.cs",
+              "DocumentMoniker": "D:\\WebAPI\\WebAPIDay1\\WebAPIDay1\\Controllers\\WAPI1Controller.cs",
+              "RelativeDocumentMoniker": "WebAPIDay1\\Controllers\\WAPI1Controller.cs",
+              "ToolTip": "D:\\WebAPI\\WebAPIDay1\\WebAPIDay1\\Controllers\\WAPI1Controller.cs",
+              "RelativeToolTip": "WebAPIDay1\\Controllers\\WAPI1Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:24:24.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
